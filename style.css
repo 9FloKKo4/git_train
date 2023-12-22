@@ -1,0 +1,40 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: aliceblue
+    
+}
+
+header{
+    background-color: #247190;
+    text-align: center;
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+header p{
+    color: white;
+}
+
+
+img{
+    max-width: 100%;
+    margin-left: 50%;
+}
+
+section{
+    max-width: 800px;
+    margin: 20px;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 5px rgb(123, 123, 123);
+}
+
+ul{
+    list-style: none ;
+    padding: 0px;
+}
+li{
+    padding-bottom: 5px;
+}
